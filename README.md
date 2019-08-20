@@ -6,5 +6,5 @@
 
 * [CI workflow](https://github.com/saikiranmothe/devops_topics/wiki/Continuous-Integration-(CI)-Workflow)
 
-* [Infrastructure as a Code](https://github.com/saikiranmothe/devops_topics/wiki/Infrastructure-as-a-code----Write,-Plan,-and-Create-Infrastructure-as-Code)
+* [Infrastructure as a Code](https://github.com/saikiranmothe/devops_topics/wiki/Infrastructure-as-a-code)
 
